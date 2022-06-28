@@ -1,0 +1,37 @@
+/* ----- Reset ----- */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body,
+ul,
+li,
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1.2rem;
+    line-height: 3vh;
+    min-height: 100vh;
+    background-color: #112B3C;
+    color: #112B3C;
+}
+
+img,
+picture {
+    max-width: 100%;
+}
+
+input,
+textarea,
+button,
+select {
+    font: inherit;
+}

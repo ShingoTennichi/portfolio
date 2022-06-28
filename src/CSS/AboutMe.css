@@ -1,0 +1,31 @@
+.Aboutme {
+    margin: 5vh 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Aboutme h1 {
+    margin-bottom: 2vh;
+    font-size: 5vh;
+}
+
+.cardholder {
+    width: 100%;
+    margin-top: 2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#dog1 {
+    filter: blur(10px);
+    position: relative;
+}
+
+#Running {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

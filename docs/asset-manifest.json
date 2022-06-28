@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.eef76b99.css",
+    "main.js": "/portfolio/static/js/main.bd0021e4.js",
+    "static/media/BG-landscape.jpg": "/portfolio/static/media/BG-landscape.3f2554c8c1d531f55858.jpg",
+    "index.html": "/portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.eef76b99.css",
+    "static/js/main.bd0021e4.js"
+  ]
+}

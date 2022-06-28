@@ -1,0 +1,59 @@
+.Projects {
+    margin: 2vw 0;
+}
+
+.Projects h1 {
+    font-size: 3vw;
+}
+
+.projectDisplay {
+    width: 100%;
+    margin-top: 2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projectDisplay li {
+    list-style: none;
+}
+
+.projectDisplay h3 {
+    font-size: 2.5vw;
+    text-align: center;
+}
+
+.project-img {
+    position: relative;
+}
+
+.hide {
+    display: none;
+}
+
+.project-img:hover .hide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: thick double #FFFFFF;
+}
+
+.hide h4 {
+    font-size: 2vw;
+}
+.hide ul {
+    display: block;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.hide ul li {
+    font-size: 1.5vw;
+}

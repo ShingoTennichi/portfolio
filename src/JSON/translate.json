@@ -1,0 +1,19 @@
+{
+    "navItems": [{
+        "path": "#home",
+        "pageE": "Home",
+        "pageJ": "ホーム"
+    }, {
+        "path": "#projects",
+        "pageE": "Projects",
+        "pageJ": "プロジェクト"
+    }, {
+        "path": "#skills",
+        "pageE": "Skills",
+        "pageJ": "スキル"
+    }, {
+        "path": "#aboutme",
+        "pageE": "About Me",
+        "pageJ": "自己紹介"
+    }]
+}

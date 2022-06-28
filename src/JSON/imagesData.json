@@ -1,0 +1,120 @@
+{
+    "imagesData": [{
+        "ID":"0",
+        "key":"html5",
+        "url":"images/LOGO_HTML5.png",
+        "alt":"HTML5"
+    },{
+        "ID":"1",
+        "key":"css3",
+        "url":"images/LOGO_CSS3.png",
+        "alt":"CSS3"
+    },  {
+        "ID":"2",
+        "key":"javascript",
+        "url":"images/LOGO_JS.png",
+        "alt":"JavaScript"
+    }, {
+        "ID":"3",
+        "key":"react",
+        "url":"images/LOGO_REACT.png",
+        "alt":"React"
+    }, {
+        "ID":"4",
+        "key":"redux",
+        "url":"images/LOGO_REDUX.png",
+        "alt":"Redux"
+    }, {
+        "ID":"5",
+        "key":"nodejs",
+        "url":"images/LOGO_NODEJS.png",
+        "alt":"Nodejs"
+    }, {
+        "ID":"6",
+        "key":"mongodb",
+        "url":"images/LOGO_MONGODB.png",
+        "alt":"mongoDB"
+    }, {
+        "ID":"7",
+        "key":"aws",
+        "url":"images/LOGO_AWS.jpeg",
+        "alt":"AWS"
+    }, {
+        "ID":"8",
+        "key":"aws-lambda",
+        "url":"images/LOGO_AWS-LAMBDA.png",
+        "alt":"AWS Lambda"
+    }, {
+        "ID":"9",
+        "key":"aws-sns",
+        "url":"images/LOGO_AWS-sns.png",
+        "alt":"AWS Event Bridge"
+    }, {
+        "ID":"10",
+        "key":"aws-eventbridge",
+        "url":"images/LOGO_AWS-EVENT-BRIDGE.jpeg",
+        "alt":"AWS Event Bridge"
+    }, {
+        "ID":"11",
+        "key":"swift",
+        "url":"images/LOGO_SWIFT.png",
+        "alt":"Swift"
+    }, {
+        "ID":"12",
+        "key":"typescript",
+        "url":"images/LOGO_TYPESCRIPT.png",
+        "alt":"TypeScript"
+    }, {
+        "ID":"13",
+        "key":"python",
+        "url":"images/LOGO_PYTHON.png",
+        "alt":"Python"
+    }],
+    "projects" : [{
+        "key": "Portfolio",
+        "url": "images/IMG_Portfolio Project.png",
+        "alt": "Portfolio Project",
+        "nameE": "Portfolio Project",
+        "nameJ": "ポートフォリオ",
+        "skills":["ReactJs", "Redux for translation", "JSON", "HTML5", "CSS3"]
+    }, {
+        "key": "Currency Notifier",
+        "url": "images/IMG_Currency Notifier.png",
+        "alt": "Currency Notifier",
+        "nameE": "Currency Notifier",
+        "nameJ": "自動為替レート通知",
+        "skills":["AWS lambda", "AWS SNS", "AWS EventBridge"]
+    }, {
+        "key": "Responsive design Website",
+        "url": "images/IMG_Responsive design Website Project.png",
+        "alt": "Responsive design Website",
+        "nameE": "Responsive design Website",
+        "nameJ": "レスポンシブデザインウェブサイト",
+        "skills":["AWS SNS for Contact page", "HTML5", "CSS3"]
+    }],
+    "imagesDog" : [{
+        "ID":"dog1",
+        "path": "images/IMG_Dog1.png",
+        "path2": "images/IMG_Dog1-2.png",
+        "alt": "Running",
+        "imgTitleE":"Running",
+        "imgTitleJ":"ダッシュ",
+        "upper": true
+    }, {
+        "ID":"dog2",
+        "path": "images/IMG_Dog2.png",
+        "path2": "",
+        "alt": "Smiling",
+        "imgTitleE":"Smiling",
+        "imgTitleJ":"笑顔",
+        "upper": false
+    }, {
+        "ID":"dog3",
+        "path": "images/IMG_Dog3.png",
+        "path2": "",
+        "alt": "Greeting",
+        "imgTitleE":"Greeting",
+        "imgTitleJ":"あいさつ",
+        "upper": false
+    }]
+}
